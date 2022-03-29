@@ -4,3 +4,5 @@
 3.支持快速勾选、取消勾选一棵子树或某个节点，使用线段树实现，复杂度o(log(n))<br/>
 <br/>
 开发环境：Qt 5.7.0<br/>
+
+![screenshot](pic/screenshot.png)<br/>
